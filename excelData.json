@@ -1,0 +1,386 @@
+[
+  {
+    "Title": "La Jugueteria",
+    "Format": "Small",
+    "Genre": "Kids",
+    "Description": "La Jugueteria is a heartwarming Christmas play set in an old, enchanting toy store where magic comes to life when no humans are around. The protagonist, Lily, is a rag doll with uneven stitching and faded fabric, often mocked and ignored by the other toys for not being as beautiful or modern as they are.\n\nAs Christmas approaches, the toys eagerly await the moment when children will choose them as gifts. However, when disaster strikes and the toy shop faces unexpected troubles, it is Lily who selflessly steps in to help. Despite the way she has been treated, she uses her kindness, wisdom, and resourcefulness to save the day. One by one, the toys realize that true beauty lies not in appearance, but in a kind and loving heart.\n\nBy Christmas Eve, the toy shop is filled with warmth and gratitude. The same toys that once rejected Lily now celebrate her as their most cherished friend. In a magical twist, Santa himself visits the shop and rewards Lily’s generosity in an unexpected and touching way, proving that the greatest gifts are love, friendship, and acceptance.\n\nFilled with humor, emotion, and holiday cheer, La Jugueteria is a touching tale that reminds audiences of all ages about the true spirit of Christmas."
+  },
+  {
+    "Title": "Luces Bajo La Lluvia",
+    "Format": "Small",
+    "Genre": "Drama",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "El Grinch",
+    "Format": "Small",
+    "Genre": "Christmas",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Transilvania",
+    "Format": "Small",
+    "Genre": "Halloween",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "El Silbol",
+    "Format": "Small",
+    "Genre": "Halloween",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Hocus Pocus",
+    "Format": "Small",
+    "Genre": "Halloween",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Don Quijote",
+    "Format": "Small",
+    "Genre": "Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Sueño de Una Noche de Verano",
+    "Format": "Small",
+    "Genre": "Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Constelations",
+    "Format": "Small",
+    "Genre": "Romance",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Lucrecia",
+    "Format": "Small",
+    "Genre": "Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Señoras de Maracaibo",
+    "Format": "Small",
+    "Genre": "Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Historias de Una Vida Conyugal",
+    "Format": "Small",
+    "Genre": "Romantic Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "El Tunel",
+    "Format": "Small",
+    "Genre": "Drama",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Miss Piña Colada",
+    "Format": "Small",
+    "Genre": "Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Legalmente Rubia",
+    "Format": "Small",
+    "Genre": "Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Mean Girls",
+    "Format": "Small",
+    "Genre": "Musical Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Milagro en el Milagro",
+    "Format": "Small",
+    "Genre": "Christmas",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Frankestein",
+    "Format": "Small",
+    "Genre": "Halloween",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Descalzos en el Parque",
+    "Format": "Small",
+    "Genre": "Romance",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Dracula",
+    "Format": "Small",
+    "Genre": "Halloween",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Werewolf",
+    "Format": "Small",
+    "Genre": "Halloween",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Aladdin",
+    "Format": "Medium",
+    "Genre": "Romantic Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Mago de Oz",
+    "Format": "Medium",
+    "Genre": "Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Zucca",
+    "Format": "Medium",
+    "Genre": "Drama",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Shrek",
+    "Format": "Medium",
+    "Genre": "Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Enredados",
+    "Format": "Medium",
+    "Genre": "Romantic Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Un Cuento de Navidad",
+    "Format": "Medium",
+    "Genre": "Christmas",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Macbeth",
+    "Format": "Medium",
+    "Genre": "Drama",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Otelo",
+    "Format": "Medium",
+    "Genre": "Drama",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "La Casa de Bernarda Alba",
+    "Format": "Medium",
+    "Genre": "Drama",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "El Mercader de Venecia",
+    "Format": "Medium",
+    "Genre": "Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Phantom of the Opera",
+    "Format": "Medium",
+    "Genre": "Musical Drama",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Wicked",
+    "Format": "Medium",
+    "Genre": "Musical",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Mamma Mia",
+    "Format": "Medium",
+    "Genre": "Musical",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Hairspray",
+    "Format": "Medium",
+    "Genre": "Musical",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Rocky Horror Show",
+    "Format": "Medium",
+    "Genre": "Halloween",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Somos Tu y Yo",
+    "Format": "Medium",
+    "Genre": "Musical",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Elf",
+    "Format": "Medium",
+    "Genre": "Christmas",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Miami Vice",
+    "Format": "Medium",
+    "Genre": "Drama",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "La La Land",
+    "Format": "Medium",
+    "Genre": "Musical",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "The Ballad of Little Destry",
+    "Format": "Medium",
+    "Genre": "Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "El Malquerido",
+    "Format": "Medium",
+    "Genre": "Musical Drama",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Pocahontas",
+    "Format": "Medium",
+    "Genre": "Drama",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Las Locuras del Emperador",
+    "Format": "Medium",
+    "Genre": "Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Valiente",
+    "Format": "Medium",
+    "Genre": "Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Bella Durmiente",
+    "Format": "Medium",
+    "Genre": "Romance",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Los Croods",
+    "Format": "Medium",
+    "Genre": "Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "El General",
+    "Format": "Medium",
+    "Genre": "Drama",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Amargo y Dulce",
+    "Format": "Large",
+    "Genre": "Tragicomedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "El Rey Leon",
+    "Format": "Large",
+    "Genre": "Musical Kids",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "La Bella y la Bestia",
+    "Format": "Large",
+    "Genre": "Musical Romance",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Notredame",
+    "Format": "Large",
+    "Genre": "Tragicomedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Olimpus",
+    "Format": "Large",
+    "Genre": "Musical Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Verona",
+    "Format": "Large",
+    "Genre": "Musical Drama",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Coco",
+    "Format": "Large",
+    "Genre": "Musical Kids",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "High School Musical",
+    "Format": "Large",
+    "Genre": "Musical",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "The Greatest Showman",
+    "Format": "Large",
+    "Genre": "Musical",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Hamlet",
+    "Format": "Large",
+    "Genre": "Drama",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Les Miserables",
+    "Format": "Large",
+    "Genre": "Musical Drama",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Jesucristo Superstar",
+    "Format": "Large",
+    "Genre": "Musical",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Alicia",
+    "Format": "Large",
+    "Genre": "Tragicomedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Moana",
+    "Format": "Large",
+    "Genre": "Musical Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Merlin",
+    "Format": "Large",
+    "Genre": "Comedy",
+    "Description": "sadaa"
+  },
+  {
+    "Title": "Principe de Egipto",
+    "Format": "Large",
+    "Genre": "Musical",
+    "Description": "sadaa"
+  }
+]
